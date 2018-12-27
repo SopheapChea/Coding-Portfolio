@@ -4,14 +4,6 @@
 // shortest seek time ﬁrst, SCAN, C-SCAN, LOOK, and C-LOOK scheduling algorithms.
 // 11/30/18
 
-/*
-“I Sopheap Sok(so683950)afﬁrm that this program is entirely my own work and that I 
-have neither developed my code together with any another person, nor copied 
-any code from any other person, nor permitted my code to be copied or otherwise used
- by any other person, nor have I copied, modiﬁed, or otherwise used programs created by others.
- I acknowledge that any violation of the above terms will be treated as academic dishonesty.”
-*/
-
 package main
 
 import (
