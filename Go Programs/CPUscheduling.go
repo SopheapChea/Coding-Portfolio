@@ -2,13 +2,7 @@
 // COP 4600: Programming assignment 1
 // **Note sjf does not work!!!
 // Program simulate the CPU scheduling of several processes for the conﬁgured First-Come First-Served, preemptive Shortest Job First, and Round-Robin CPU scheduling algorithms.
-/*
-“I Sopheap Sok(so683950)afﬁrm that this program is entirely my own work and that I 
-have neither developed my code together with any another person, nor copied 
-any code from any other person, nor permitted my code to be copied or otherwise used
- by any other person, nor have I copied, modiﬁed, or otherwise used programs created by others.
- I acknowledge that any violation of the above terms will be treated as academic dishonesty.”
-*/
+
 package main
 
 import (
