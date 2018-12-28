@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3503C-0001, Spring 2018
 // 3/2/2018
-// Program #3: Camera
+// Program: Camera
 // Program determines the minimum number of pictures needed to capture all the objects present by using 
 // a greedy algorithm.
 
