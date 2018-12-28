@@ -39,8 +39,5 @@ int containsWord(TrieNode *root, char *str);
 
 int prefixCount(TrieNode *root, char *str);
 
-double difficultyRating(void);
-
-double hoursSpent(void);
 
 #endif
