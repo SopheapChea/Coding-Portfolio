@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3502C 0001, Fall 2017
 // 9/9/2017
-// Program #2: SmartArray
+// Program: SmartArray
 // Program is a smart array which grows to accommodate new elements whenever it gets too full. 
 // Program will trim array to size to prevent wasted space.
 // Program includes get() and put() functions to access individual elements.
@@ -278,16 +276,3 @@ void printSmartArray(SmartArray *smarty)
 	return;
 }
 
-// Function returns a double from 1.0 to 5.0 according to what the hoursSpent() function returns.
-double difficultyRating(void)
-{
-	if (hoursSpent() >= 12.0)
-		return 4.5; 
-	else return 4.0;
-}
-
-// Function returns a double depending on how many hours is spent on the assignment. 
-double hoursSpent(void)
-{
-	return 14.0;
-}
