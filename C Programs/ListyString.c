@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3502C 0001, Fall 2017
 // 10/26/2017
-// Program #3: ListyString
+// Program: ListyString
 // Program implement linked lists to represent strings. Many functions are included that manipulate these linked lists
 // to transform the strings they represent. Functions such as: processInputFile, createListyString, destroyListyString,
 // cloneListyString, replaceChar, reverseListyString, listyCat, listyCmp, listyLength, and printListyString are included.
@@ -508,20 +506,6 @@ void printListyString(ListyString *listy)
 		printf("\n");
 		return;
 	}
-}
-
-// Function returns a double from 1.0 to 5.0 according to what the hoursSpent() function returns.
-double difficultyRating(void)
-{
-	if (hoursSpent() >= 15.0)
-		return 4.5; 
-	else return 4.0;
-}
-
-// Function returns a double depending on how many hours is spent on the assignment. 
-double hoursSpent(void)
-{
-	return 25.0;
 }
 
 // Function capture the name of an input file (passed as a command line argument),
