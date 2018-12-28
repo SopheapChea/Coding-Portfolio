@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3503C-0001, Spring 2018
 // 4/4/2018
-// Program #5: Counting Subsequences
+// Program: Counting Subsequences
 // Program uses dynamic programing to determine the number of occurrences of a given subsequence in a given sequence of letters.
 
 import java.util.*;
