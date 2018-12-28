@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3502C 0001, Fall 2017
 // 11/2/2017
-// Program #4: TriePrediction
+// Program: TriePrediction
 // Program uses the advanced tree data structure, trie, to store strings,
 // and provide efficient insertion and lookup. Program also implement text prediction
 // with the inclusion of subtries in the trie data structure. 
@@ -514,19 +512,6 @@ int prefixCount(TrieNode *root, char *str)
 	return countWord(root);
 }
 
-// Function returns a double from 1.0 to 5.0 according to what the hoursSpent() function returns.
-double difficultyRating(void)
-{
-	if (hoursSpent() >= 25.0)
-		return 4.8; 
-	else return 4.5;
-}
-
-// Function returns a double depending on how many hours is spent on the assignment. 
-double hoursSpent(void)
-{
-	return 30.0;	
-}
 
 // Function capture the names of the corpus and input files (passed as a command line argument),
 // calls buildTrie(), processInputFile(), and destroyTrie() functions, then return 0. 
