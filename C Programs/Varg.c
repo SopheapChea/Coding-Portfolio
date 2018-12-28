@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3502C 0001, Fall 2017
 // 8/25/2017
-// Program #1: Varg 
+// Program: Varg 
 // Program make use of variadic functions, in two different ways, to determent the first most frequent character
 // in a list of arguments.
 
@@ -89,18 +87,4 @@ char fancyMostFrequentChar(char c, ...)
 	
 	va_end(argp);
 	return character;
-}
-
-// Function returns a double from 1.0 to 5.0 according to what the hoursSpent() function returns.
-double difficultyRating(void)
-{
-	if (hoursSpent() >= 12.0)
-		return 4.0; 
-	else return 3.5;
-}
-
-// Function returns a double depending on how many hours is spent on the assignment. 
-double hoursSpent(void)
-{
-	return 11.5;
 }
