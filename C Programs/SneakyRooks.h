@@ -15,8 +15,4 @@ int allTheRooksAreSafe(char **rookStrings, int numRooks, int boardSize);
 
 void parseCoordinateString(char *rookString, Coordinate *rookCoordinate);
 
-double difficultyRating(void);
-
-double hoursSpent(void);
-
 #endif
