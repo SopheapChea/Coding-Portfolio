@@ -8,9 +8,5 @@ char mostFrequentChar(int n, ...);
 
 char fancyMostFrequentChar(char c, ...);
 
-double difficultyRating(void);
-
-double hoursSpent(void);
-
 
 #endif
