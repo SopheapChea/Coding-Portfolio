@@ -49,9 +49,4 @@ int listyLength(ListyString *listy);
 
 void printListyString(ListyString *listy);
 
-double difficultyRating(void);
-
-double hoursSpent(void);
-
-
 #endif
