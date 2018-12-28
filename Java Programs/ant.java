@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3503C-0001, Spring 2018
 // 2/2/2018
-// Program #2: Ant Tunneling 
+// Program: Ant Tunneling 
 // Program implement Prim's algorithm to determine the minimum total
 // cost to dig a tunnel network that connects all ant hills.
 
