@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3503C-0001, Spring 2018
 // 4/19/2018
-// Program #6: Number of Optimal Pac Man Paths 
+// Program: Number of Optimal Pac Man Paths 
 // Program uses dynamic programming to determine the maximum possible score Pac Man can achieve,
 // the number of different paths that achieve that score and the first alphabetic path that yields the maximum possible score. 
 
