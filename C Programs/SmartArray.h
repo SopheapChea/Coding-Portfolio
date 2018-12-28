@@ -42,9 +42,5 @@ int getSize(SmartArray *smarty);
 
 void printSmartArray(SmartArray *smarty);
 
-double difficultyRating(void);
-
-double hoursSpent(void);
-
 
 #endif
