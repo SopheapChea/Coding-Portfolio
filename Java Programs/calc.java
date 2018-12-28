@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3503C-0001, Spring 2018
 // 3/8/2018
-// Program #4: The a-b-c Calculator
+// Program: The a-b-c Calculator
 // Program uses BFS to determine the fewest number of button pressed needed to obtain the target value on the calculator display.
 
 import java.util.*;
