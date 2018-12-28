@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3502C 0001, Fall 2017
 // 11/25/2017
-// Program #5: SneakyRooks
+// Program: SneakyRooks
 // Program uses base conversions and the basic idea of hash tables to track location of rooks and
 // determine if rooks are safe or can attack one another. 
 
@@ -124,16 +122,3 @@ void parseCoordinateString(char *rookString, Coordinate *rookCoordinate)
 	return;
 }
 
-// Function returns a double from 1.0 to 5.0 according to what the hoursSpent() function returns.
-double difficultyRating(void)
-{
-	if (hoursSpent() >= 12.0)
-		return 3.0; 
-	else return 2.5;
-}
-
-// Function returns a double depending on how many hours is spent on the assignment. 
-double hoursSpent(void)
-{
-	return 5.0;	
-}
