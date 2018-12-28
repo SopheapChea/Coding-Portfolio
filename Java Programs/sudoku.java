@@ -1,8 +1,6 @@
 // Sopheap Sok
-// so683950
-// COP 3503C-0001, Spring 2018
 // 1/19/2018
-// Program #1: Sudoku Solver
+// Program: Sudoku Solver
 // Program implement backtracking to solve Sudoku puzzles.
 
 import java.util.*;
