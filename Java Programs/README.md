@@ -1,4 +1,4 @@
-# Brief Program Sumaries # 
+# Brief Program Summaries # 
 
 [Ant](https://github.com/SopheapSok/Coding-Portfolio/blob/master/Java%20Programs/ant.java): Program implement Prim's algorithm to determine the minimum total cost to dig a tunnel network that connects all ant hills.
 
